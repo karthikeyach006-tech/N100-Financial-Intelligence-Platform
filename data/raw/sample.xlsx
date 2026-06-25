@@ -1,0 +1,4 @@
+from src.etl.loader import load_excel
+
+df = load_excel("data/raw/sample.xlsx")
+print(df.head())
