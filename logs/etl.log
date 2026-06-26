@@ -1,0 +1,5 @@
+2026-06-25 22:26:26,450 - ERROR - Failed to load balancesheet.xlsx: Excel file format cannot be determined, you must specify an engine manually.
+2026-06-25 22:26:26,452 - ERROR - Failed to load cashflow.xlsx: Excel file format cannot be determined, you must specify an engine manually.
+2026-06-25 22:26:26,453 - ERROR - Failed to load companies.xlsx: Excel file format cannot be determined, you must specify an engine manually.
+2026-06-25 22:26:26,454 - ERROR - Failed to load pnl.xlsx: Excel file format cannot be determined, you must specify an engine manually.
+2026-06-25 22:26:26,455 - ERROR - Failed to load sample.xlsx: Excel file format cannot be determined, you must specify an engine manually.
